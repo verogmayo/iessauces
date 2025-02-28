@@ -14,7 +14,7 @@ import java.util.Scanner;
 		int ent1;
 		int ent2; 
 		
-	Syste.out.println("Introduce el numero 1 : ");
+	System.out.println("Introduce el numero 1 : ");
 	ent1=teclado.nextInt();
 	System.out.println("Introduce el numero 2 : ");
 	ent2=teclado.nextInt();
